@@ -47,7 +47,7 @@ To run the Task Manager, follow these steps:
 3. Run the application by executing the following command:
 
    ```
-   node task_manager.js
+   node index.js
    ```
 
 4. You will see a menu with various options. Follow the prompts to add tasks, mark them as completed or pending, delete tasks, view tasks, and undo actions.
